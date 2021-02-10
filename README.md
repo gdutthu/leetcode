@@ -69,7 +69,7 @@
 | :--------------: | :----------------------------------------------------------: |
 |    链表的删除    | [203](https://leetcode-cn.com/problems/remove-linked-list-elements/)、[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)、[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |
 |    链表的遍历    |                             430                              |
-| 链表的旋转与反转 | [61](https://leetcode-cn.com/problems/rotate-list/)、[24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)、206、92、25 |
+| 链表的旋转与反转 | [61](https://leetcode-cn.com/problems/rotate-list/)、[24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)、[206](https://leetcode-cn.com/problems/reverse-linked-list/)、92、25 |
 |  链表高精度加法  |                            2、445                            |
 |    链表的合并    | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)、[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
 
