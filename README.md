@@ -109,7 +109,7 @@
 
 |         题目分类         |                           题目编号                           |
 | :----------------------: | :----------------------------------------------------------: |
-|         树与递归         | [100](https://leetcode-cn.com/problems/same-tree/)、[222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)、101、226、437、563、617、508、572、<br/>543、654、687、87 |
+|         树与递归         | [100](https://leetcode-cn.com/problems/same-tree/)、[222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)、[101](https://leetcode-cn.com/problems/symmetric-tree/)、226、437、563、617、508、572、<br/>543、654、687、87 |
 |       树的层次遍历       | 102、429、690、559、662、671、513、515、637、<br/>103、107、257、623、653、104、111、112、113、<br/>129、404、199、655、116、117 |
 |       树的前序遍历       | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |
 |      树的前序序列化      |                   606、331、652、297、449                    |
