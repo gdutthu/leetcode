@@ -3,7 +3,7 @@
 
 1、记录准备秋招过程中的LeetCode刷题过程，里面所有题解均是python实现。
 
-2、带有超链接的题目即为已解决的题目。
+2、带有超链接的题目即为已解决的题目，且均在LeetCode oj上测试通过。但不保证题解思路是最优解，部分题目采用暴露方法进行解题。
 
 # 题目分类及刷题顺序推荐
 
@@ -15,7 +15,7 @@
 |   统计数组中的元素   | [645](https://leetcode-cn.com/problems/set-mismatch/)、697、448、442、41、274 |
 |   数组的改变、移动   |                        453、665、283                         |
 |  二维数组及滚动数组  |                   118、119、661、598、419                    |
-|      数组的旋转      |  [189](https://leetcode-cn.com/problems/rotate-array/)、396  |
+|      数组的旋转      | [189](https://leetcode-cn.com/problems/rotate-array/)、[396](https://leetcode-cn.com/problems/rotate-function/) |
 | 特定顺序遍历二维数组 |                         54、59、498                          |
 |     二维数组变换     |                       566、48、73、289                       |
 |      前缀和数组      |                        303、304、238                         |
