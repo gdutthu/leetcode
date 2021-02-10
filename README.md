@@ -38,7 +38,7 @@
 |     高精度运算     |                     66、67、415、43、306                     |
 |     字符串变换     |                          482、6、68                          |
 |     字符串匹配     |                      28、686、459、214                       |
-|     中心拓展法     | [5](https://leetcode-cn.com/problems/longest-palindromic-substring/)、647 |
+|     中心拓展法     | [5](https://leetcode-cn.com/problems/longest-palindromic-substring/)、[647](https://leetcode-cn.com/problems/palindromic-substrings/) |
 
 
 
