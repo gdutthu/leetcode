@@ -114,7 +114,7 @@
 |       树的前序遍历       | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |
 |      树的前序序列化      |                   606、331、652、297、449                    |
 |       树的后序遍历       | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)、[590](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) |
-| 树的中序遍历与二叉搜索树 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)、[530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)、[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)、[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)、[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)、173、669、450、<br/>110、95、108、109 |
+| 树的中序遍历与二叉搜索树 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)、[530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)、[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)、[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)、[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[173](https://leetcode-cn.com/problems/binary-search-tree-iterator/)、669、450、<br/>110、95、108、109 |
 |        重构二叉树        |                           105、106                           |
 |       二叉树的展开       | [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
 |       最近公共祖先       |                           235、236                           |
