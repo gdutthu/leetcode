@@ -117,7 +117,7 @@
 | 树的中序遍历与二叉搜索树 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)、[530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)、[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)、[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)、[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[173](https://leetcode-cn.com/problems/binary-search-tree-iterator/)、[669](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)、450、<br/>110、95、108、109 |
 |        重构二叉树        |                           105、106                           |
 |       二叉树的展开       | [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
-|       最近公共祖先       |                           235、236                           |
+|       最近公共祖先       | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)、236 |
 |      Morris中序遍历      |                           501、99                            |
 |          四叉树          |                           558、427                           |
 
