@@ -25,4 +25,4 @@ class Solution:
         self.node_sum(root.left,cur,targetSum)
         self.node_sum(root.right,cur,targetSum)
         cur.pop()
-        return 
+        return
