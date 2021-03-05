@@ -118,7 +118,7 @@
 |        重构二叉树        | [105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)、[106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
 |       二叉树的展开       | [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
 |       最近公共祖先       | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)、236 |
-|      Morris中序遍历      |                           501、99                            |
+|      Morris中序遍历      | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)、99 |
 |          四叉树          |                           558、427                           |
 
 
