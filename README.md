@@ -9,6 +9,8 @@
 
 ## 一. 数组
 
+重点要看的题目：442、448
+
 |       题目分类       |                           题目编号                           |
 | :------------------: | :----------------------------------------------------------: |
 |      数组的遍历      | [485](https://leetcode-cn.com/problems/max-consecutive-ones/)、[495](https://leetcode-cn.com/problems/teemo-attacking/)、[414](https://leetcode-cn.com/problems/third-maximum-number/)、[628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) |
