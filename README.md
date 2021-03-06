@@ -18,7 +18,7 @@
 |      数组的旋转      | [189](https://leetcode-cn.com/problems/rotate-array/)、[396](https://leetcode-cn.com/problems/rotate-function/) |
 | 特定顺序遍历二维数组 |                         54、59、498                          |
 |     二维数组变换     | [566](https://leetcode-cn.com/problems/reshape-the-matrix/)、[48](https://leetcode-cn.com/problems/rotate-image/)、73、289 |
-|      前缀和数组      |                        303、304、238                         |
+|      前缀和数组      | 303、[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)、238 |
 |         题解         |   [数组篇](https://leetcode-cn.com/circle/article/oalBEI/)   |
 
 
