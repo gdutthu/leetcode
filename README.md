@@ -1,6 +1,8 @@
 # leetcode
 题目参考链接：https://leetcode-cn.com/circle/article/48kq9d/
 
+本人题解github repo链接：https://github.com/gdutthu/leetcode
+
 1、记录准备秋招过程中的LeetCode刷题过程，里面所有题解均是python实现。
 
 2、带有超链接的题目即为已解决的题目，且均在LeetCode oj上测试通过。但不保证题解思路是最优解，部分题目采用暴露方法进行解题。
