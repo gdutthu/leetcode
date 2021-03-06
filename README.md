@@ -17,7 +17,7 @@
 |  二维数组及滚动数组  | [118](https://leetcode-cn.com/problems/pascals-triangle/)、[119](https://leetcode-cn.com/problems/pascals-triangle-ii/)、661、598、419 |
 |      数组的旋转      | [189](https://leetcode-cn.com/problems/rotate-array/)、[396](https://leetcode-cn.com/problems/rotate-function/) |
 | 特定顺序遍历二维数组 | [54](https://leetcode-cn.com/problems/spiral-matrix/)、[59](https://leetcode-cn.com/problems/spiral-matrix-ii/)、[498](https://leetcode-cn.com/problems/diagonal-traverse/) |
-|     二维数组变换     | [566](https://leetcode-cn.com/problems/reshape-the-matrix/)、[48](https://leetcode-cn.com/problems/rotate-image/)、73、289 |
+|     二维数组变换     | [566](https://leetcode-cn.com/problems/reshape-the-matrix/)、[48](https://leetcode-cn.com/problems/rotate-image/)、[73](https://leetcode-cn.com/problems/set-matrix-zeroes/)、289 |
 |      前缀和数组      | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/)、[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)、[238](https://leetcode-cn.com/problems/product-of-array-except-self/) |
 |         题解         |   [数组篇](https://leetcode-cn.com/circle/article/oalBEI/)   |
 
