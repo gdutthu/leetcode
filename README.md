@@ -12,7 +12,7 @@
 |       题目分类       |                           题目编号                           |
 | :------------------: | :----------------------------------------------------------: |
 |      数组的遍历      | [485](https://leetcode-cn.com/problems/max-consecutive-ones/)、[495](https://leetcode-cn.com/problems/teemo-attacking/)、[414](https://leetcode-cn.com/problems/third-maximum-number/)、[628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) |
-|   统计数组中的元素   | [645](https://leetcode-cn.com/problems/set-mismatch/)、697、448、442、41、[274](https://leetcode-cn.com/problems/h-index/) |
+|   统计数组中的元素   | [645](https://leetcode-cn.com/problems/set-mismatch/)、697、448、442、[41](https://leetcode-cn.com/problems/first-missing-positive/)、[274](https://leetcode-cn.com/problems/h-index/) |
 |   数组的改变、移动   | [453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)、665、[283](https://leetcode-cn.com/problems/move-zeroes/) |
 |  二维数组及滚动数组  | [118](https://leetcode-cn.com/problems/pascals-triangle/)、[119](https://leetcode-cn.com/problems/pascals-triangle-ii/)、661、598、419 |
 |      数组的旋转      | [189](https://leetcode-cn.com/problems/rotate-array/)、[396](https://leetcode-cn.com/problems/rotate-function/) |
