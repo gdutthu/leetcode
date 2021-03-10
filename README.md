@@ -150,7 +150,7 @@
 | :----------------: | :----------------------------------------------------------: |
 | 二分查找应用(简单) | [374](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)、[35](https://leetcode-cn.com/problems/search-insert-position/)、[278](https://leetcode-cn.com/problems/first-bad-version/)、[367](https://leetcode-cn.com/problems/valid-perfect-square/)、[69](https://leetcode-cn.com/problems/sqrtx/)、[441](https://leetcode-cn.com/problems/arranging-coins/) |
 | 二分查找应用(中等) | [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)、540、275、436、300、354、658、162、4 |
-| 二分查找与旋转数组 | [153](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)、154、33、81 |
+| 二分查找与旋转数组 | [153](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)、[154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)、33、81 |
 |   二分查找与矩阵   | [74](https://leetcode-cn.com/problems/search-a-2d-matrix/)、[240](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) |
 |     二分答案法     |                      378、668、410、483                      |
 
