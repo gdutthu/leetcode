@@ -107,7 +107,7 @@
 |       头尾指针       |              345、680、167、15、16、18、11、42               |
 | 同向双指针、滑动窗口 | [27](https://leetcode-cn.com/problems/remove-element/)、26、80、83、82、611、187、643、674、<br/>209、3、438、567、424、76、30 |
 |      分段双指针      |                    86、328、160、88、475                     |
-|       快慢指针       | [141](https://leetcode-cn.com/problems/linked-list-cycle/)、142、143、234、457、287 |
+|       快慢指针       | [141](https://leetcode-cn.com/problems/linked-list-cycle/)、[142](https://leetcode-cn.com/problems/linked-list-cycle-ii/)、143、234、457、287 |
 
 ## 九. 树
 
