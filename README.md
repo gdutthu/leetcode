@@ -105,7 +105,7 @@
 | 题目分类             | 题目编号                                                     |
 | :------------------- | :----------------------------------------------------------- |
 | 头尾指针             | 345、680、167、15、16、18、11、42                            |
-| 同向双指针、滑动窗口 | [27](https://leetcode-cn.com/problems/remove-element/)、[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)、[80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)、83、82、611、187、643、674、209、3、438、567、424、76、30 |
+| 同向双指针、滑动窗口 | [27](https://leetcode-cn.com/problems/remove-element/)、[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)、[80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)、[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)、82、611、187、643、674、209、3、438、567、424、76、30 |
 | 分段双指针           | 86、328、160、88、475                                        |
 | 快慢指针             | [141](https://leetcode-cn.com/problems/linked-list-cycle/)、[142](https://leetcode-cn.com/problems/linked-list-cycle-ii/)、143、234、457、287 |
 
