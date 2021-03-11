@@ -104,7 +104,7 @@
 
 | 题目分类             | 题目编号                                                     |
 | :------------------- | :----------------------------------------------------------- |
-| 头尾指针             | 345、680、167、15、16、18、11、42                            |
+| 头尾指针             | 345、680、167、15、16、[18](https://leetcode-cn.com/problems/4sum/)、11、42 |
 | 同向双指针、滑动窗口 | [27](https://leetcode-cn.com/problems/remove-element/)、[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)、[80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)、[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)、[82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)、611、187、643、674、209、3、438、567、424、76、30 |
 | 分段双指针           | [86](https://leetcode-cn.com/problems/partition-list/)、[328](https://leetcode-cn.com/problems/odd-even-linked-list/)、[160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)、[88](https://leetcode-cn.com/problems/merge-sorted-array/)、[475](https://leetcode-cn.com/problems/heaters/) |
 | 快慢指针             | [141](https://leetcode-cn.com/problems/linked-list-cycle/)、[142](https://leetcode-cn.com/problems/linked-list-cycle-ii/)、143、234、457、[287](https://leetcode-cn.com/problems/find-the-duplicate-number/) |
