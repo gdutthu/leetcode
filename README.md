@@ -13,17 +13,17 @@
 
 重点要看的题目：442、448
 
-|       题目分类       |                           题目编号                           |
-| :------------------: | :----------------------------------------------------------: |
-|      数组的遍历      | [485](https://leetcode-cn.com/problems/max-consecutive-ones/)、[495](https://leetcode-cn.com/problems/teemo-attacking/)、[414](https://leetcode-cn.com/problems/third-maximum-number/)、[628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) |
-|   统计数组中的元素   | [645](https://leetcode-cn.com/problems/set-mismatch/)、697、[448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)、[442](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)、[41](https://leetcode-cn.com/problems/first-missing-positive/)、[274](https://leetcode-cn.com/problems/h-index/) |
-|   数组的改变、移动   | [453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)、665、[283](https://leetcode-cn.com/problems/move-zeroes/) |
-|  二维数组及滚动数组  | [118](https://leetcode-cn.com/problems/pascals-triangle/)、[119](https://leetcode-cn.com/problems/pascals-triangle-ii/)、661、598、419 |
-|      数组的旋转      | [189](https://leetcode-cn.com/problems/rotate-array/)、[396](https://leetcode-cn.com/problems/rotate-function/) |
+| 题目分类             | 题目编号                                                     |
+| :------------------- | :----------------------------------------------------------- |
+| 数组的遍历           | [485](https://leetcode-cn.com/problems/max-consecutive-ones/)、[495](https://leetcode-cn.com/problems/teemo-attacking/)、[414](https://leetcode-cn.com/problems/third-maximum-number/)、[628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) |
+| 统计数组中的元素     | [645](https://leetcode-cn.com/problems/set-mismatch/)、697、[448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)、[442](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)、[41](https://leetcode-cn.com/problems/first-missing-positive/)、[274](https://leetcode-cn.com/problems/h-index/) |
+| 数组的改变、移动     | [453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)、665、[283](https://leetcode-cn.com/problems/move-zeroes/) |
+| 二维数组及滚动数组   | [118](https://leetcode-cn.com/problems/pascals-triangle/)、[119](https://leetcode-cn.com/problems/pascals-triangle-ii/)、661、598、419 |
+| 数组的旋转           | [189](https://leetcode-cn.com/problems/rotate-array/)、[396](https://leetcode-cn.com/problems/rotate-function/) |
 | 特定顺序遍历二维数组 | [54](https://leetcode-cn.com/problems/spiral-matrix/)、[59](https://leetcode-cn.com/problems/spiral-matrix-ii/)、[498](https://leetcode-cn.com/problems/diagonal-traverse/) |
-|     二维数组变换     | [566](https://leetcode-cn.com/problems/reshape-the-matrix/)、[48](https://leetcode-cn.com/problems/rotate-image/)、[73](https://leetcode-cn.com/problems/set-matrix-zeroes/)、289 |
-|      前缀和数组      | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/)、[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)、[238](https://leetcode-cn.com/problems/product-of-array-except-self/) |
-|         题解         |   [数组篇](https://leetcode-cn.com/circle/article/oalBEI/)   |
+| 二维数组变换         | [566](https://leetcode-cn.com/problems/reshape-the-matrix/)、[48](https://leetcode-cn.com/problems/rotate-image/)、[73](https://leetcode-cn.com/problems/set-matrix-zeroes/)、289 |
+| 前缀和数组           | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/)、[304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)、[238](https://leetcode-cn.com/problems/product-of-array-except-self/) |
+| 题解                 | [数组篇](https://leetcode-cn.com/circle/article/oalBEI/)     |
 
 
 
@@ -48,45 +48,45 @@
 
 ## 三. 数与位
 
-|   题目分类   |                           题目编号                           |
-| :----------: | :----------------------------------------------------------: |
-| 数字的位操作 | 7、9、479、564、231、342、326、504、263、190、<br/>191、476、461、477、693、393、172、458、258、<br/>319、405、171、168、670、233、357、400 |
-|  简单数学题  |                         492、29、507                         |
-|    快速幂    |                           50、372                            |
+| 题目分类     | 题目编号                                                     |
+| :----------- | :----------------------------------------------------------- |
+| 数字的位操作 | 7、9、479、564、231、342、326、504、263、190、191、476、<br/>461、477、693、393、172、458、258、319、405、171、168、670、<br/>233、357、400 |
+| 简单数学题   | 492、29、507                                                 |
+| 快速幂       | 50、372                                                      |
 
 
 
 ## 四. 栈与递归
 
-|       题目分类       |     题目编号     |
-| :------------------: | :--------------: |
-| 用栈访问最后若干元素 |   682、71、388   |
-|      栈与计算器      |  150、227、224   |
-|     栈与括号匹配     | 20、636、591、32 |
-|         递归         |  385、341、394   |
+| 题目分类             | 题目编号         |
+| :------------------- | ---------------- |
+| 用栈访问最后若干元素 | 682、71、388     |
+| 栈与计算器           | 150、227、224    |
+| 栈与括号匹配         | 20、636、591、32 |
+| 递归                 | 385、341、394    |
 
 
 
 ## 五. 链表
 
-|     题目分类     |                           题目编号                           |
-| :--------------: | :----------------------------------------------------------: |
-|    链表的删除    | [203](https://leetcode-cn.com/problems/remove-linked-list-elements/)、[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)、[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |
-|    链表的遍历    |                             430                              |
+| 题目分类         | 题目编号                                                     |
+| :--------------- | :----------------------------------------------------------- |
+| 链表的删除       | [203](https://leetcode-cn.com/problems/remove-linked-list-elements/)、[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)、[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |
+| 链表的遍历       | 430                                                          |
 | 链表的旋转与反转 | [61](https://leetcode-cn.com/problems/rotate-list/)、[24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)、[206](https://leetcode-cn.com/problems/reverse-linked-list/)、92、25 |
-|  链表高精度加法  | [2](https://leetcode-cn.com/problems/add-two-numbers/)、[445](https://leetcode-cn.com/problems/add-two-numbers-ii/) |
-|    链表的合并    | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)、[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
+| 链表高精度加法   | [2](https://leetcode-cn.com/problems/add-two-numbers/)、[445](https://leetcode-cn.com/problems/add-two-numbers-ii/) |
+| 链表的合并       | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)、[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |
 
 
 
 ## 六. 哈希表
 
-|         题目分类         |                           题目编号                           |
-| :----------------------: | :----------------------------------------------------------: |
+| 题目分类                 | 题目编号                                                     |
+| :----------------------- | :----------------------------------------------------------- |
 | 哈希表的查找、插入及删除 | [217](https://leetcode-cn.com/problems/contains-duplicate/)、[633](https://leetcode-cn.com/problems/sum-of-square-numbers/)、[349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)、128、202、500、290、532、205、166、466、138 |
-|       哈希表与索引       |                    1、167、599、219、220                     |
-|       哈希表与统计       |                 594、350、554、609、454、18                  |
-|      哈希表与前缀和      |                        560、523、525                         |
+| 哈希表与索引             | 1、167、599、219、220                                        |
+| 哈希表与统计             | 594、350、554、609、454、18                                  |
+| 哈希表与前缀和           | 560、523、525                                                |
 
 ## 七. 贪心算法
 
@@ -158,10 +158,10 @@
 
 ## 十二. 二进制运算的应用
 
-|   题目分类   |        题目编号        |
-| :----------: | :--------------------: |
-|  异或的应用  | 89、136、137、260、268 |
-| 与或非的应用 |     371、318、201      |
+| 题目分类     | 题目编号               |
+| :----------- | :--------------------- |
+| 异或的应用   | 89、136、137、260、268 |
+| 与或非的应用 | 371、318、201          |
 
 
 
@@ -198,37 +198,37 @@
 
 ## 十五. 采样
 
-|  题目分类  | 题目编号 |
-| :--------: | :------: |
+| 题目分类   | 题目编号 |
+| :--------- | :------- |
 | 按权值采样 | 528、497 |
 | 蓄水池抽样 | 382、398 |
-|  拒绝采样  | 拒绝采样 |
+| 拒绝采样   | 拒绝采样 |
 
 
 
 ## 十六. 计算几何
 
-|   题目分类   |      题目编号      |
-| :----------: | :----------------: |
+| 题目分类     | 题目编号           |
+| :----------- | :----------------- |
 | 计算几何基础 | 593、447、223、149 |
-|  分类讨论法  |        335         |
-|     凸包     |        587         |
-|   覆盖问题   |        391         |
+| 分类讨论法   | 335                |
+| 凸包         | 587                |
+| 覆盖问题     | 391                |
 
 
 
 ## 十七. 常用技巧与算法
 
-|     题目分类     | 题目编号 |
-| :--------------: | :------: |
-|      博弈论      |   292    |
-|       分块       | 239、164 |
-|      倍增法      |   330    |
-| 拓展欧几里得算法 |   365    |
-|     洗牌算法     |   384    |
-|      找规律      | 390、672 |
-|      分治法      | 395、667 |
-|     排序算法     | 147、148 |
-|      线性筛      |   204    |
-|    摩尔投票法    |   229    |
+| 题目分类         | 题目编号 |
+| :--------------- | :------- |
+| 博弈论           | 292      |
+| 分块             | 239、164 |
+| 倍增法           | 330      |
+| 拓展欧几里得算法 | 365      |
+| 洗牌算法         | 384      |
+| 找规律           | 390、672 |
+| 分治法           | 395、667 |
+| 排序算法         | 147、148 |
+| 线性筛           | 204      |
+| 摩尔投票法       | 229      |
 
