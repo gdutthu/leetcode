@@ -111,36 +111,36 @@
 
 ## 九. 树
 
-|         题目分类         |                           题目编号                           |
-| :----------------------: | :----------------------------------------------------------: |
-|         树与递归         | [100](https://leetcode-cn.com/problems/same-tree/)、[222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)、[101](https://leetcode-cn.com/problems/symmetric-tree/)、[226](https://leetcode-cn.com/problems/invert-binary-tree/)、437、563、617、508、[572](https://leetcode-cn.com/problems/subtree-of-another-tree/)、<br/>543、654、687、87 |
-|       树的层次遍历       | [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)、[429](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)、690、[559](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)、662、671、[513](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)、[515](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)、[637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)、<br/>[103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)、[107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)、[257](https://leetcode-cn.com/problems/binary-tree-paths/)、623、[653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)、[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)、[111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[112](https://leetcode-cn.com/problems/path-sum/)、[113](https://leetcode-cn.com/problems/path-sum-ii/)、<br/>[129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)、[404](https://leetcode-cn.com/problems/sum-of-left-leaves/)、[199](https://leetcode-cn.com/problems/binary-tree-right-side-view/)、655、[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)、[117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) |
-|       树的前序遍历       | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |
-|      树的前序序列化      | 606、331、652、[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)、[449](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/) |
-|       树的后序遍历       | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)、[590](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) |
-| 树的中序遍历与二叉搜索树 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)、[530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)、[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)、[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)、[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[173](https://leetcode-cn.com/problems/binary-search-tree-iterator/)、[669](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)、450、<br/>[110](https://leetcode-cn.com/problems/balanced-binary-tree/)、95、[108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)、[109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) |
-|        重构二叉树        | [105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)、[106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
-|       二叉树的展开       | [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
-|       最近公共祖先       | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)、236 |
-|      Morris中序遍历      | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)、99 |
-|          四叉树          |                           558、427                           |
+| 题目分类                 | 题目编号                                                     |
+| :----------------------- | :----------------------------------------------------------- |
+| 树与递归                 | [100](https://leetcode-cn.com/problems/same-tree/)、[222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)、[101](https://leetcode-cn.com/problems/symmetric-tree/)、[226](https://leetcode-cn.com/problems/invert-binary-tree/)、437、563、617、508、[572](https://leetcode-cn.com/problems/subtree-of-another-tree/)、543、654、687、87 |
+| 树的层次遍历             | [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)、[429](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)、690、[559](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)、662、671、[513](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)、[515](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)、[637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)、[103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)、[107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)、[257](https://leetcode-cn.com/problems/binary-tree-paths/)、623、[653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)、[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)、[111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[112](https://leetcode-cn.com/problems/path-sum/)、[113](https://leetcode-cn.com/problems/path-sum-ii/)、[129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)、[404](https://leetcode-cn.com/problems/sum-of-left-leaves/)、[199](https://leetcode-cn.com/problems/binary-tree-right-side-view/)、655、[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)、[117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) |
+| 树的前序遍历             | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |
+| 树的前序序列化           | 606、331、652、[297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)、[449](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/) |
+| 树的后序遍历             | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)、[590](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) |
+| 树的中序遍历与二叉搜索树 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)、[530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)、[538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)、[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)、[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[173](https://leetcode-cn.com/problems/binary-search-tree-iterator/)、[669](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)、450、[110](https://leetcode-cn.com/problems/balanced-binary-tree/)、95、[108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)、[109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) |
+| 重构二叉树               | [105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)、[106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
+| 二叉树的展开             | [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
+| 最近公共祖先             | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)、236 |
+| Morris中序遍历           | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)、99 |
+| 四叉树                   | 558、427                                                     |
 
 
 
 ## 十. 图与搜索
 
-|    题目分类    |                           题目编号                           |
-| :------------: | :----------------------------------------------------------: |
-| 图的建立与应用 |                             565                              |
-|  深度优先搜索  |                           17、397                            |
-|     回溯法     | 526、401、36、37、51、52、77、39、216、<br/>40、46、47、31、556、60、491、78、90、<br/>79、93、332 |
-| 回溯法与表达式 |                        241、282、679                         |
-|  回溯法与括号  |                           22、301                            |
-|  回溯法与贪心  |                             488                              |
-|  广度优先搜索  | 133、200、695、463、542、130、417、529、127、<br/>126、433、675 |
-|     并查集     |                        547、684、685                         |
-|    拓扑排序    |                        399、207、210                         |
-| 有限状态自动机 |                           65、468                            |
+| 题目分类       | 题目编号                                                     |
+| :------------- | :----------------------------------------------------------- |
+| 图的建立与应用 | 565                                                          |
+| 深度优先搜索   | 17、397                                                      |
+| 回溯法         | 526、401、36、37、51、52、77、39、216、40、46、47、31、556、60、491、78、90、79、93、332 |
+| 回溯法与表达式 | 241、282、679                                                |
+| 回溯法与括号   | 22、301                                                      |
+| 回溯法与贪心   | 488                                                          |
+| 广度优先搜索   | 133、200、695、463、542、130、417、529、127、126、433、675   |
+| 并查集         | 547、684、685                                                |
+| 拓扑排序       | 399、207、210                                                |
+| 有限状态自动机 | 65、468                                                      |
 
 
 
@@ -167,32 +167,32 @@
 
 ## 十三. 动态规划
 
-|          题目分类          |                           题目编号                           |
-| :------------------------: | :----------------------------------------------------------: |
-|      数组中的动态规划      | 509、70、338、45、55、198、213、650、91、<br/>639、552、123、188、309、32、264、313、403 |
-| 子数组、子序列中的动态规划 |                 689、413、446、368、416、279                 |
-|          背包问题          |                   322、518、474、494、377                    |
-|      矩阵中的动态规划      |    62、63、64、120、576、688、221、629、174、<br/>96、329    |
-|    动态规划与字符串匹配    | 583、72、97、115、516、132、131、139、140、<br/>514、10、44  |
-|      状态压缩动态规划      |                   464、691、698、638、473                    |
-|      区间中的动态规划      |                   486、664、375、312、546                    |
-|           树形dp           |                           337、124                           |
-|           数位dp           |                           233、600                           |
+| 题目分类                   | 题目编号                                                     |
+| :------------------------- | :----------------------------------------------------------- |
+| 数组中的动态规划           | 509、70、338、45、55、198、213、650、91、639、552、123、188、309、32、264、313、403 |
+| 子数组、子序列中的动态规划 | 689、413、446、368、416、279                                 |
+| 背包问题                   | 322、518、474、494、377                                      |
+| 矩阵中的动态规划           | 62、63、64、120、576、688、221、629、174、96、329            |
+| 动态规划与字符串匹配       | 583、72、97、115、516、132、131、139、140、514、10、44       |
+| 状态压缩动态规划           | 464、691、698、638、473                                      |
+| 区间中的动态规划           | 486、664、375、312、546                                      |
+| 树形dp                     | 337、124                                                     |
+| 数位dp                     | 233、600                                                     |
 
 
 
 ## 十四. 数据结构
 
-|           题目分类           |                         题目编号                          |
-| :--------------------------: | :-------------------------------------------------------: |
-|    数据结构设计——栈与队列    |               225、232、284、622、641、155                |
-|     数据结构设计——哈希表     |                    676、355、380、381                     |
-| 数据结构设计——哈希与双向链表 |                       432、146、460                       |
-|            前缀树            |   208、211、648、386、677、472、421、212、336、<br/>440   |
-|              堆              | 23、373、378、632、347、692、502、630、407、<br/>295、480 |
-|           树状数组           |                  307、315、493、327、673                  |
-|            线段树            |                            699                            |
-|       平衡树(set/map)        |                       352、218、363                       |
+| 题目分类                     | 题目编号                                             |
+| :--------------------------- | :--------------------------------------------------- |
+| 数据结构设计——栈与队列       | 225、232、284、622、641、155                         |
+| 数据结构设计——哈希表         | 676、355、380、381                                   |
+| 数据结构设计——哈希与双向链表 | 432、146、460                                        |
+| 前缀树                       | 208、211、648、386、677、472、421、212、336、440     |
+| 堆                           | 23、373、378、632、347、692、502、630、407、295、480 |
+| 树状数组                     | 307、315、493、327、673                              |
+| 线段树                       | 699                                                  |
+| 平衡树(set/map)              | 352、218、363                                        |
 
 
 
