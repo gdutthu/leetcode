@@ -169,7 +169,7 @@
 
 | 题目分类                   | 题目编号                                                     |
 | :------------------------- | :----------------------------------------------------------- |
-| 数组中的动态规划           | [509](https://leetcode-cn.com/problems/fibonacci-number/)、[70](https://leetcode-cn.com/problems/climbing-stairs/)、338、45、55、198、213、650、91、639、552、123、188、309、32、264、313、403 |
+| 数组中的动态规划           | [509](https://leetcode-cn.com/problems/fibonacci-number/)、[70](https://leetcode-cn.com/problems/climbing-stairs/)、[338](https://leetcode-cn.com/problems/counting-bits/)、45、55、198、213、650、91、639、552、123、188、309、32、264、313、403 |
 | 子数组、子序列中的动态规划 | 689、413、446、368、416、279                                 |
 | 背包问题                   | 322、518、474、494、377                                      |
 | 矩阵中的动态规划           | 62、63、64、120、576、688、221、629、174、96、329            |
