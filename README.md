@@ -172,7 +172,7 @@
 | 数组中的动态规划           | [509](https://leetcode-cn.com/problems/fibonacci-number/)、[70](https://leetcode-cn.com/problems/climbing-stairs/)、[338](https://leetcode-cn.com/problems/counting-bits/)、45、55、198、213、650、91、639、552、123、188、309、32、264、313、403 |
 | 子数组、子序列中的动态规划 | 689、413、446、368、416、279                                 |
 | 背包问题                   | 322、518、474、494、377                                      |
-| 矩阵中的动态规划           | [62](https://leetcode-cn.com/problems/unique-paths/)、[63](https://leetcode-cn.com/problems/unique-paths-ii/)、64、120、576、688、221、629、174、96、329 |
+| 矩阵中的动态规划           | [62](https://leetcode-cn.com/problems/unique-paths/)、[63](https://leetcode-cn.com/problems/unique-paths-ii/)、[64](https://leetcode-cn.com/problems/minimum-path-sum/)、120、576、688、221、629、174、96、329 |
 | 动态规划与字符串匹配       | 583、72、97、115、516、132、131、139、140、514、10、44       |
 | 状态压缩动态规划           | 464、691、698、638、473                                      |
 | 区间中的动态规划           | 486、664、375、312、546                                      |
