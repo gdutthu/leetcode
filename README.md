@@ -50,7 +50,7 @@
 
 | 题目分类     | 题目编号                                                     |
 | :----------- | :----------------------------------------------------------- |
-| 数字的位操作 | [7](https://leetcode-cn.com/problems/reverse-integer/)、[9](https://leetcode-cn.com/problems/palindrome-number/)、479、564、231、[342](https://leetcode-cn.com/problems/power-of-four/)、[326](https://leetcode-cn.com/problems/power-of-three/)、[504](https://leetcode-cn.com/problems/base-7/)、263、190、[191](https://leetcode-cn.com/problems/number-of-1-bits/)、476、<br/>[461](https://leetcode-cn.com/problems/hamming-distance/)、477、693、393、172、458、[258](https://leetcode-cn.com/problems/add-digits/)、319、405、171、168、670、<br/>233、357、400 |
+| 数字的位操作 | [7](https://leetcode-cn.com/problems/reverse-integer/)、[9](https://leetcode-cn.com/problems/palindrome-number/)、479、564、[231](https://leetcode-cn.com/problems/power-of-two/)、[342](https://leetcode-cn.com/problems/power-of-four/)、[326](https://leetcode-cn.com/problems/power-of-three/)、[504](https://leetcode-cn.com/problems/base-7/)、263、190、[191](https://leetcode-cn.com/problems/number-of-1-bits/)、476、<br/>[461](https://leetcode-cn.com/problems/hamming-distance/)、477、693、393、172、458、[258](https://leetcode-cn.com/problems/add-digits/)、319、405、171、168、670、<br/>233、357、400 |
 | 简单数学题   | [492](https://leetcode-cn.com/problems/construct-the-rectangle/)、29、[507](https://leetcode-cn.com/problems/perfect-number/) |
 | 快速幂       | [50](https://leetcode-cn.com/problems/powx-n/)、[372](https://leetcode-cn.com/problems/super-pow/) |
 
