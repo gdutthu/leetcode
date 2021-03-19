@@ -50,7 +50,7 @@
 
 | 题目分类     | 题目编号                                                     |
 | :----------- | :----------------------------------------------------------- |
-| 数字的位操作 | 7、9、479、564、231、342、326、504、263、190、191、476、<br/>461、477、693、393、172、458、258、319、405、171、168、670、<br/>233、357、400 |
+| 数字的位操作 | 7、9、479、564、231、342、326、504、263、190、191、476、<br/>[461](https://leetcode-cn.com/problems/hamming-distance/)、477、693、393、172、458、258、319、405、171、168、670、<br/>233、357、400 |
 | 简单数学题   | [492](https://leetcode-cn.com/problems/construct-the-rectangle/)、29、[507](https://leetcode-cn.com/problems/perfect-number/) |
 | 快速幂       | [50](https://leetcode-cn.com/problems/powx-n/)、[372](https://leetcode-cn.com/problems/super-pow/) |
 
